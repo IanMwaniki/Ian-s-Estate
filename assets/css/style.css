@@ -26,14 +26,13 @@ body{
     color: #fafafa;
 }
 
-button #h4{
-    padding:0;
+ .navigationbar button #h4{
+    font-size: 20px;
     color: #fafafa;
     background-color: #2549d3;
     font-family: Oleo script;font-style: normal;
-    font-size: 15px;
-    box-sizing: 20px;
-    border-radius: 30px;
-     margin-left: 100px;
-     float:right;
+     border-radius: 30px;
+    float:right;
+    position:relative;
+    top:-15px;
 }
