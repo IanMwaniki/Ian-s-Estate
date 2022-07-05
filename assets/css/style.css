@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: #fafafa;
+}
 .container{
     display: flex;
+    background-color: #fafafa;
+    padding:15px;
+    text-align: center;
+    box-shadow: 0 0 3px black;
+}
+.navigationbar li{
+    display: inline;
 }
