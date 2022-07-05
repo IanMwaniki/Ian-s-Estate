@@ -17,12 +17,12 @@ body{
     padding-left: 45px;
 }
 button{
-    padding-left: 45px;
+    padding:0;
     color: #fafafa;
     background-color: #2549d3;
     font-family: Oleo script;font-style: normal;
     font-size: 15px;
-    box-sizing: border-box;
-    border-radius: 10px;
-
+    box-sizing: 20px;
+    border-radius: 30px;
+margin-left: 100px;
 }
