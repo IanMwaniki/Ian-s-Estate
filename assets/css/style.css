@@ -14,4 +14,15 @@ body{
 }
 .navigationbar li{
     display: inline;
+    padding-left: 45px;
+}
+button{
+    padding-left: 45px;
+    color: #fafafa;
+    background-color: #2549d3;
+    font-family: Oleo script;font-style: normal;
+    font-size: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+
 }
