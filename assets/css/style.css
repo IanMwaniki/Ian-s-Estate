@@ -4,15 +4,17 @@
 }
 body{
     background: #fafafa;
+    
 }
 
 nav{
-    background: black;
+    background:grey;
     height: 80px;
     width: 100%;
+    justify-items: center;
 }
 label.logo{
-    color: white;
+    color: black;
     font-size: 30px;
     line-height: 80px;
     margin-left: 100px;
@@ -34,13 +36,13 @@ nav ul li a{
 }
 li button{
     font-size: 20px;
-    background-color:#ed661f;
+    background-color:#2549df;
     color: white;
     font-weight: bold;
-    border-radius: 0px;
+    border-radius: 20px;
     padding: 10px 20px;
 }
 nav ul li a:hover{
     transition: .5s;
-    color: #ed661f;
+    color: #2549df;
 }
